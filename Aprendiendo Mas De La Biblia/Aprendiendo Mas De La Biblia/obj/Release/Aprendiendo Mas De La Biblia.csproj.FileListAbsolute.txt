@@ -1,0 +1,15 @@
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\bin\Release\Aprendiendo Mas De La Biblia.exe.config
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\bin\Release\Aprendiendo Mas De La Biblia.exe
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\bin\Release\Aprendiendo Mas De La Biblia.pdb
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo Mas De La Biblia.csprojResolveAssemblyReference.cache
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Como_Jugar.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Form1.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Form3.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Form4.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Form2.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Properties.Resources.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo_Mas_De_La_Biblia.Ruta.resources
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo Mas De La Biblia.csproj.GenerateResource.cache
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo Mas De La Biblia.csproj.CoreCompileInputs.cache
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo Mas De La Biblia.exe
+F:\Juego\Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia\obj\Release\Aprendiendo Mas De La Biblia.pdb

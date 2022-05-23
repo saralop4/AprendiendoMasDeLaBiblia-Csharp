@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprendiendo Mas De La Biblia", "Aprendiendo Mas De La Biblia\Aprendiendo Mas De La Biblia.csproj", "{FDD5DDA3-1B43-42C9-B172-D68BBEF99E47}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cuanto sabes de la biblia", "Cuanto sabes de la biblia\Cuanto sabes de la biblia.vdproj", "{5316C37F-33A8-45CD-8D3B-A8C30D50257F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD5DDA3-1B43-42C9-B172-D68BBEF99E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD5DDA3-1B43-42C9-B172-D68BBEF99E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD5DDA3-1B43-42C9-B172-D68BBEF99E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD5DDA3-1B43-42C9-B172-D68BBEF99E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5316C37F-33A8-45CD-8D3B-A8C30D50257F}.Debug|Any CPU.ActiveCfg = Debug
+		{5316C37F-33A8-45CD-8D3B-A8C30D50257F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CCFACA4-F9DB-4261-8A0D-33ED3EE64291}
+	EndGlobalSection
+EndGlobal
